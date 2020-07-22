@@ -6,4 +6,6 @@
 * 😄 Pronouns: he/his
 * 📫 To reach out, send me a mail to info@cloudis.dev or checkout my <a href='https://linkedin.com/in/janvalentik'>LinkedIn</a>
 
+If you like my work you can sponsor me via <a href='https://github.com/sponsors/jvalentik'>GitHub Sponsors program</a>
+
 <img src='https://github-readme-stats.vercel.app/api?username=jvalentik&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
