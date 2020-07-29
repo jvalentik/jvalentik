@@ -9,6 +9,8 @@
 
 - ❤️ If you like my work you can sponsor me via <a href='https://github.com/sponsors/jvalentik'>GitHub Sponsors program</a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=jvalentik&show_icons=true" alt="jvalentik" /> </p>
+
 
 <p align="center">
 <a href="https://dev.to/jvalentik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@jvalentik" height="20" width="20" /></a>
