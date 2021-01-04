@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Angular, NodeJS, Swift**
 
-- 📫 To reach out, send me a mail to info@cloudis.dev
+- 📫 To reach out, send me a mail to johny.valentik@gmail.com
 
 - ❤️ If you like my work you can sponsor me via <a href='https://github.com/sponsors/jvalentik'>GitHub Sponsors program</a>
 
