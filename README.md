@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Johny</h1>
 <h3 align="center">Passionate about coding, professional fullstack web developer, Swift developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Angular, NodeJS, Swift**
+- 💬 Ask me about **Flutter, Swift, NodeJS, Go, Angular**
 
 - 📫 To reach out, send me a mail to info@findjohny.dev
 
