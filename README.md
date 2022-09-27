@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **Flutter, Swift, NodeJS, Go, Angular**
 
-- 📫 To reach out, send me a mail to info@findjohny.dev
-
 - ❤️ If you like my work you can sponsor me via <a href='https://github.com/sponsors/jvalentik'>GitHub Sponsors program</a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jvalentik&show_icons=true" alt="jvalentik" /> </p>
