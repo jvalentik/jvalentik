@@ -5,7 +5,7 @@
 
 - ❤️ If you like my work you can sponsor me via <a href='https://github.com/sponsors/jvalentik'>GitHub Sponsors program</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jvalentik&show_icons=true" alt="jvalentik" /> </p>
+<img src="https://readme-stats-jvalentik.vercel.app/api?username=jvalentik&show_icons=true" alt="jvalentik" /> </p>
 
 
 <p align="center">
