@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Johny</h1>
 <h3 align="center">Passionate about coding, professional cloud native developer</h3>
 
-- 💬 Ask me about **Flutter, NodeJS, Go, Angular**
+- 💬 Ask me about **Flutter, NodeJS, Go, Angular, React, Next.js**
 
 - ❤️ If you like my work you can sponsor me via <a href='https://github.com/sponsors/jvalentik'>GitHub Sponsors program</a>
 
